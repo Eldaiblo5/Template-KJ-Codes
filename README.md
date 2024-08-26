@@ -1,4 +1,5 @@
-## Template-KJ-Codes
+## 🔴 KJ TEMPLATES CODES
+Play animation And Sound:
 ```lua
-E
+local player = game:GetService("Players")
 ```
