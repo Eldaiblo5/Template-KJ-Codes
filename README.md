@@ -22,5 +22,10 @@ Script.Disable
 
 # • character Stuff
 Like When You Click "Character" DropDown
-You will See Some characters
+You will See Some characters on character list and Custom One You Made
 ## Create Character On Character List
+```lua
+Ok
+```
+
+### Remove All Moveset And Put New One
