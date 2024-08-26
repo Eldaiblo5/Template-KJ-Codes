@@ -9,12 +9,12 @@
         local UserInputService = game:GetService("UserInputService") 
        debounce = false -- Activate debounce 
         local anim = Instance.new("Animation") 
-        anim.AnimationId = "rbxassetid://16945573694" 
+        anim.AnimationId = "rbxassetid://PUT_UR_ANIMATION_ID" 
         local playAnim = humanoid:LoadAnimation(anim) 
         anim.AnimationId = "rbxassetid://0" 
         local Sound = Instance.new("Sound") 
         Sound.Parent = character 
-        Sound.SoundId = "rbxassetid://0" 
+        Sound.SoundId = "rbxassetid:/PUT_UR_SOUND_ID" 
         Sound.Playing = true 
         spawn(function() 
         wait(1) 
@@ -37,7 +37,7 @@ Only Animation:
         local UserInputService = game:GetService("UserInputService") 
        debounce = false -- Activate debounce 
         local anim = Instance.new("Animation") 
-        anim.AnimationId = "rbxassetid://16945573694" 
+        anim.AnimationId = "rbxassetid://PUT_UR_ANIMATION_ID" 
         local playAnim = humanoid:LoadAnimation(anim) 
         anim.AnimationId = "rbxasset://0"
         wait(1) 
