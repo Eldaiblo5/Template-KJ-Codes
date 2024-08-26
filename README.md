@@ -28,4 +28,13 @@ You will See Some characters on character list and Custom One You Made
 Ok
 ```
 
-### Remove All Moveset And Put New One
+## Remove All Moveset
+```lua
+Ok
+```
+## Put New Moveset [Should Use "remove all moveset" First]
+```lua
+Bro
+```
+
+So Yeah This is All This Will make You From noob To Pro At Scripting You Can Make Ur own Script By Using https://pastebin.com/ or https://github.com/ and put ur own script into loadstring I think It Was Good
